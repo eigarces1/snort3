@@ -53,3 +53,5 @@ La elección de **Snort 3** para este trabajo se fundamenta en la solidez, relev
 - González, M., Pérez, A., & Ruiz, D. (2024). *Evaluación de Snort bajo MITRE ATT&CK y Caldera*. Universidad de Sevilla.  
 - Roesch, M. (1999). *Snort - Lightweight Intrusion Detection for Networks*. Proceedings of the 13th USENIX Conference on System Administration. https://www.snort.org
 
+
+
